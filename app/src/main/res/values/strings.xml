@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FaceScanner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_holder_text">Lorem Ipsum is simply dummy text of theaining Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="rule_text_1">Image should be clicked in a well-lit room, with the face shown clearly to the camera.</string>
+    <string name="rule_text_2">Extreme darkness/brightness on the face might increase the BPCER.</string>
+    <string name="rule_text_3">The Face should be straight and not tilted.</string>
+    <string name="rule_text_4">Eyes should not be closed.</string>
+    <string name="rule_text_5">Minimum Size of detected face should be 224X224 pixels.</string>
+
+    <string name="rule_text_6">Distance between eyes should be at least 100 pixels.</string>
+    <string name="rule_text_7">Motion Blur might increase BPCER.</string>
+    <string name="rule_text_8">Any occlusions on parts of face like Glasses, Masks should be removed while performing Liveness Check/ Search.</string>
+    <string name="rule_text_9">The detected Face should occupy at least 20% of the total image area.</string>
+    <string name="rule_text_10">No image compression is highly recommended.</string>
+
+
+    <string name="rule_requirement_text">Instructions</string>
+    <string name="fab_to_switch_the_camera">fab to switch the camera</string>
+    <string name="fab_to_capture_image">fab to capture image</string>
+    <string name="error_message_preview">Oops!! some error occurred please try again</string>
+</resources>
